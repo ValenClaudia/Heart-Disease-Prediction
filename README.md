@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-Comparison of Heart Failure Prediction Based on Symptoms Using Logistic Regression, SVM, and Decision Tree Algorithms
+This project aims to predict heart failure risk based on patient symptoms by comparing the effectiveness of four machine learning algorithms: Logistic Regression, Support Vector Machine (SVM), Decision Tree, and Random Forest. By evaluating these models, we seek to determine the most accurate and interpretable approach to classify patients as "Disease" or "No disease" for heart failure.
